@@ -1,3 +1,8 @@
+<img width="1883" height="841" alt="sc-1" src="https://github.com/user-attachments/assets/3ea7b4e8-7252-4fa0-a3a2-5318c3655272" />
+<img width="1833" height="837" alt="sc-2" src="https://github.com/user-attachments/assets/3796d5e8-f651-4d1b-905a-84eb75dde290" />
+<img width="1811" height="851" alt="sc-3" src="https://github.com/user-attachments/assets/53ae6f7d-876b-4a02-a903-f05d910b14d1" />
+<img width="1797" height="812" alt="sc-4" src="https://github.com/user-attachments/assets/0587996d-93e7-4304-a1db-a619bb2c99b5" />
+<img width="1836" height="832" alt="sc-5" src="https://github.com/user-attachments/assets/10dff802-05f0-4e16-b934-7fd2eb54aef5" />
 # String Calculator App - TDD Implementation
 
 A production-ready **React.js + TypeScript** string calculator application built with **Test-Driven Development (TDD)** methodology. This app demonstrates best practices in testing, component architecture, and functional programming.
