@@ -64,6 +64,9 @@ The String Calculator is an educational project that demonstrates TDD principles
 
 ---
 
+## Deployment URL
+  url -  https://string-calculator-ashutoshmaurya.netlify.app/
+
 ## Getting Started
 
 ### 1. Clone this Project
