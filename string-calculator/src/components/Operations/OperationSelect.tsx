@@ -1,4 +1,3 @@
-"use client"
 
 import type { Operation } from "../../lib/Calculator"
 import { Button } from "../../components/libraries/Button/Button"
