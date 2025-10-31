@@ -8,10 +8,10 @@ interface OperationSelectorProps {
 }
 
 const OPERATIONS: { label: string; value: Operation }[] = [
-  { label: "➕ Add", value: "add" },
-  { label: "➖ Subtract", value: "subtract" },
-  { label: "✖️ Multiply", value: "multiply" },
-  { label: "➗ Divide", value: "divide" },
+  { label: "+ Add", value: "add" },
+  { label: "- Subtract", value: "subtract" },
+  { label: "X Multiply", value: "multiply" },
+  { label: "/ Divide", value: "divide" },
 ]
 
 export function OperationSelector({ onSelect, isLoading = false }: OperationSelectorProps) {
