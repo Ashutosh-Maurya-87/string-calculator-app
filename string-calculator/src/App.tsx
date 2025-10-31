@@ -49,7 +49,12 @@ const App = () => {
   }
 
   return (
-    <div className="mx-auto w-full max-w-md space-y-6 rounded-lg border border-border bg-card p-6 shadow-sm">
+    <div 
+    className="mx-auto w-full m-5
+    max-w-md space-y-6 
+    rounded-lg border border-border 
+    bg-card p-6 shadow-sm"
+    >
       <div className="space-y-2">
         <h1 className="text-2xl font-bold text-foreground">String Calculator</h1>
         <p className="text-sm text-muted-foreground">Enter numbers separated by commas or spaces</p>
