@@ -1,4 +1,3 @@
-"use client"
 
 import { useState } from "react"
 import { calculate, type Operation } from "./lib/Calculator"
